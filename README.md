@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Igor and I'm just a student... yet</p>
+<p align="left"><b>My name is Igor and I'm just a student... yet</b></p>
 
 ###
 
@@ -64,6 +64,6 @@
 
 ###
 
-<p align="right">See you soon 😁</p>
+<p align="right"><b><i>See you soon</i> 😁 </b></p>
 
 ###
